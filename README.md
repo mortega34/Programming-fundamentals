@@ -11,5 +11,3 @@
 1. Battle of the Bugs (Objects and Classes)
 1. The Matrix (Creating a Matrix data structure)
 1. Building a Platformer
-
-# Programming-fundamentals
